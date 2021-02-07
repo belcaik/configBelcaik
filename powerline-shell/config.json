@@ -1,0 +1,12 @@
+{
+  "segments": [
+    "username",
+    "cwd",
+    "git",
+    "time"
+  ],
+  "theme": "~/mythemes/theme.py",
+  "cwd": {
+  "mode": "dironly"},
+  "time": {"format": "%H:%M"}
+}
