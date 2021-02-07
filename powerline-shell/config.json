@@ -5,7 +5,7 @@
     "git",
     "time"
   ],
-  "theme": "~/mythemes/theme.py",
+  "theme": "configBelcaik/power-shell-themes/theme.py",
   "cwd": {
   "mode": "dironly"},
   "time": {"format": "%H:%M"}
